@@ -1,6 +1,5 @@
 # The Rainy Days🌧
-
-<iframe src="https://player.vimeo.com/video/439179122" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+https://vimeo.com/439179122
 
 - 데이터 소니피케이션(데이터를 소리로 변환) 연습작.🔊🎶
 - 2019년 장마 기간(서울 기준 6.26-7.29) 동안 서울의 일 강수량, 기온, 풍속, 가조시간 정보를 가지고 소리로 표현. 
